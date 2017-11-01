@@ -23,7 +23,7 @@
   "main": "lib/index.js",
   "repository": "dooly-ai/draft-js-typeahead",
   "scripts": {
-    "preinstall": "gulp"
+    "postinstall": "gulp"
   },
   "devDependencies": {
     "babel-core": "^6.7.4",
